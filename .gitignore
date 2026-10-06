@@ -13,12 +13,11 @@ datos/
 !output/results/*.csv
 !output/results_sintetico/*.csv
 
-# === DECISIÓN PENDIENTE =================================================
-# La memoria del TFG (docs/memoria_tfg.pdf) SE PUBLICARÁ tal y como está
-# este fichero. Es tuya y de la Universidad de Alicante, pero contiene
-# gráficos y cifras de ventas de Leroy Merlin.
-# Si prefieres NO publicarla, descomenta la línea siguiente:
-# docs/memoria_tfg.pdf
+# === MEMORIA DEL TFG — NO PUBLICAR ======================================
+# Decisión tomada el 06/10/2026: contiene gráficos y cifras de ventas de
+# Leroy Merlin. Se conserva fuera del repositorio, en
+# `analisis datos\TFG\`. El README describe el trabajo sin necesidad del PDF.
+docs/
 
 # === R ==================================================================
 .Rproj.user/
