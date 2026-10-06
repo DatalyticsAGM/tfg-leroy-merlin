@@ -32,3 +32,6 @@ run_all.log
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Documento de estrategia personal, NUNCA publico
+INFORME_EJECUTIVO.md
