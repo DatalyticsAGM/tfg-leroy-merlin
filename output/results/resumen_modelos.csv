@@ -1,0 +1,5 @@
+"modelo","split","AUC","Accuracy","Sens","Spec"
+"logistica","A_original_aleatorio",0.5868,0.573,0.3976,0.7229
+"logistica","B_corregido_producto",0.5249,0.5239,0.6479,0.4196
+"random_forest","A_original_aleatorio",0.5883,0.5787,0.3634,0.7625
+"random_forest","B_corregido_producto",0.559,0.5332,0.467,0.6005

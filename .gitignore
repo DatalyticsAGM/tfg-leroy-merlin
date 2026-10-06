@@ -1,0 +1,34 @@
+# === DATOS — NO SUBIR ===================================================
+# Los datasets son propiedad de Leroy Merlin. data_interim/ contiene además
+# el texto de las reseñas escritas por clientes.
+data_interim/
+data/
+datos/
+*.xlsx
+*.xls
+*.RData
+*.rds
+*.RDataTmp
+# Excepción: los resultados agregados SÍ se publican, son la evidencia
+!output/results/*.csv
+!output/results_sintetico/*.csv
+
+# === DECISIÓN PENDIENTE =================================================
+# La memoria del TFG (docs/memoria_tfg.pdf) SE PUBLICARÁ tal y como está
+# este fichero. Es tuya y de la Universidad de Alicante, pero contiene
+# gráficos y cifras de ventas de Leroy Merlin.
+# Si prefieres NO publicarla, descomenta la línea siguiente:
+# docs/memoria_tfg.pdf
+
+# === R ==================================================================
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.Renviron
+*.Rproj
+
+# === Entorno ============================================================
+run_all.log
+.DS_Store
+Thumbs.db
+.vscode/
